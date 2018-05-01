@@ -1,11 +1,11 @@
-tag1:
+personal:
   name: personal
 
-tag2:
+impersonal:
   name: impersonal
 
-tag3:
+arhiva:
   name: arhiva
 
-tag4:
+etc:
   name: etc
