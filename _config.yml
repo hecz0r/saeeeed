@@ -1,4 +1,4 @@
-permalink: /:year:month:day/:title
+permalink: /:title
 url: http://h01000110.github.io/windows-95
 baseurl: /project
 
@@ -25,9 +25,12 @@ kramdown:
     disable : true
 
   plugins:
-   - jekyll-mentions
-   - jemoji
-   - jekyll-redirect-from
-   - jekyll-sitemap
-   - jekyll-feed
+  - jekyll-feed
+ - jekyll-redirect-from
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-avatar
+ - jemoji
+ - jekyll-mentions
+ - jekyll-include-cache
 
