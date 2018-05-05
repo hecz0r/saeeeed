@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The art of seduction"
+title: "The Art of Seduction"
 tags: personal
 ---
 
