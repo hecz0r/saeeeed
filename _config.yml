@@ -24,7 +24,10 @@ kramdown:
   syntax_highlighter_opts:
     disable : true
 
-
-plugins:
-  - jekyll-sitemap
+  plugins:
+   - jekyll-mentions
+   - jemoji
+   - jekyll-redirect-from
+   - jekyll-sitemap
+   - jekyll-feed
 
